@@ -16,5 +16,3 @@
 !!! Example:
 - DELETE FROM users 
 - DELETE FROM users WHERE id = $id*/
-
-insert
